@@ -1,0 +1,10 @@
+x, y, z, w = 10, 3.14, "texto", True
+print(type(x))  # <class 'int'>
+print(type(y))  # <class 'float'>
+print(type(z))  # <class 'str'>
+print(type(w))  # <class 'bool'>
+
+x = 10        
+x = "dez"     
+# int
+# agora str
